@@ -58,7 +58,7 @@ while True:
         if nama in data.keys():
             print("\n=============== Daftar Nilai ==================")
             print("===============================================")
-            print("|NAMA | NIM | TUGAS | UTS | UAS | NILAI AKHIR |")
+            print("|NAMA | (NIM, TUGAS, UTS, UAS, NILAI AKHIR)|")
             print("| {0} | {1} |\t".format(nama, data[nama]))
             print("===============================================")
         else:
