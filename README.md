@@ -15,7 +15,7 @@ Ketika kita belum memasukkan data siswa maka akan muncul seperti gambar di bawah
 Lalu setelah memasukkan data siswa maka outputnya harus seperti ini:
   ![tugas_menambahkan_data.png](Pic/tugas_menambahkan_data.png)
   
-Oke mari kita mulai mengerjakan tugasnya, untuk source code/syntax yang saya gunakan silahkan kalian lihat disini [Click Here](latihan_5.py)
+Oke mari kita mulai mengerjakan tugasnya, untuk source code/syntax yang saya gunakan silahkan kalian lihat disini [Click Here](tugas_praktikum_5.py)
 
 Oke setelah kalian lihat saya akan menjelaskan fungsi - fungsinya :
 
