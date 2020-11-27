@@ -86,9 +86,9 @@ Keterangan:
       
 8. Syntax jika kita tidak memilih salah satu pada pilihan menu<br>
 Keterangan:
-  - Disini kita menggunakan else untuk mengeksekusi code/syntax jika bernilai False<br>
-  - Kita disuruh memilih ingin menambahkan data, melihat data, mengubah data, mencari data, atau keluar dari program<br>
-  - Jadi ketika kita tidak memilih pilihan apapun maka akan muncul tulisan pilih menu yang tersedia<br>
+    - Disini kita menggunakan else untuk mengeksekusi code/syntax jika bernilai False<br>
+    - Kita disuruh memilih ingin menambahkan data, melihat data, mengubah data, mencari data, atau keluar dari program<br>
+    - Jadi ketika kita tidak memilih pilihan apapun maka akan muncul tulisan pilih menu yang tersedia<br>
       ![memilih.png](Pic/memilih.png)
       
 
