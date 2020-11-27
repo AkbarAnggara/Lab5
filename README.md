@@ -21,27 +21,27 @@ Oke setelah kalian lihat saya akan menjelaskan fungsi - fungsinya :
 
 1. Syntax untuk membuat pilihan menambah data, melihat data, menhapus data, mencari data atau keluar dari program<br>
 Keterangan:
-  - Pertama kita buat dictionary kosong dulu yap kita tulis data:{} dictionary hampir sama dengan list hanya saja bedanya list menggunakan tanda kurung siku[], sementara dictionary menggunakan tanda kurung kurawal {}<br>
-  - Setelah membuat data dictionary kosong kita akan menggunakan perulangan while True dan membuat sebuah inputan pilihan apakah kita ingin menambah data, melihat data, menhapus data, mencari data atau keluar dari program<br>
-  - lalu kita buat x =  input untuk memasukkan pilihan tadi<br>
-     ![pilih.png](Pic/pilih.png)<br>
-  - Lalu jika kita run syntaxnya maka akan muncul seperti berikut ini<br>
-     ![output_pilih.png](Pic/output_pilih.png) 
+    - Pertama kita buat dictionary kosong dulu yap kita tulis data:{} dictionary hampir sama dengan list hanya saja bedanya list menggunakan tanda kurung siku[], sementara dictionary menggunakan tanda kurung kurawal {}<br>
+    - Setelah membuat data dictionary kosong kita akan menggunakan perulangan while True dan membuat sebuah inputan pilihan apakah kita ingin menambah data, melihat data, menhapus data, mencari data atau keluar dari program<br>
+    - lalu kita buat x =  input untuk memasukkan pilihan tadi<br>
+      ![pilih.png](Pic/pilih.png)<br>
+    - Lalu jika kita run syntaxnya maka akan muncul seperti berikut ini<br>
+       ![output_pilih.png](Pic/output_pilih.png) 
 
 
 2. Syntax untuk keluar dari program<br>
 Keterangan :
-  - Kita akan menggunakan if untuk mengeksekusi code/syntax jika kondisi bernilai benar/True<br>
-  - lalu gunanya x.lower adalah lower di gunakan untuk mengubah atau mengkonversi huruf - huruf yang ada pada kalimat supaya menjadi berhuruf kecil, sementara x adalah data pilihan yang kita pilih sebelumnya<br>
-  - Lalu kita tulis kata - kata untuk menunjukan bahwa anda sudah benar - benar keluar<br>
-  - Lalu kita gunakan fungsi break untuk keluar dari program<br>
-    ![keluar.png](Pic/keluar.png)<br>
-  - Lalu jika kita run maka hasilnya akan seperti berikut<br>
-    ![output_keluar.png](Pic/output_keluar.png)
+    - Kita akan menggunakan if untuk mengeksekusi code/syntax jika kondisi bernilai benar/True<br>
+    - lalu gunanya x.lower adalah lower di gunakan untuk mengubah atau mengkonversi huruf - huruf yang ada pada kalimat supaya menjadi berhuruf kecil, sementara x adalah data pilihan yang kita pilih sebelumnya<br>
+    - Lalu kita tulis kata - kata untuk menunjukan bahwa anda sudah benar - benar keluar<br>
+    - Lalu kita gunakan fungsi break untuk keluar dari program<br>
+      ![keluar.png](Pic/keluar.png)<br>
+    - Lalu jika kita run maka hasilnya akan seperti berikut<br>
+      ![output_keluar.png](Pic/output_keluar.png)
 
 
 3. Syntax untuk melihat data dictionary/data siswa<br>
 Keterangan :
-  - Kita gunakan funsgi if untuk mencetak/print data siswa yang sudah di inputkan makanya kita menggunakan data.items()<br>
-  - Lalu kita gunakan print untuk membuat table agar terlihat lebih rapih 
+    - Kita gunakan funsgi if untuk mencetak/print data siswa yang sudah di inputkan makanya kita menggunakan data.items()<br>
+    - Lalu kita gunakan print untuk membuat table agar terlihat lebih rapih 
   
