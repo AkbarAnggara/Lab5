@@ -43,7 +43,7 @@ Keterangan :
     - Kita gunakan fungsi if untuk mencetak/print data siswa yang sudah di inputkan makanya kita menggunakan data.items()<br>
     - Lalu kita gunakan print untuk membuat table agar terlihat lebih rapih<br>
     - Lalu gunanya for untuk melakukakan perulangan nomor dan juga data siswa yang kita inputkan nanti<br>
-    - Lalu kita buat lagi di bawahnya else agar ketika kita belom menginputkan data siswa akan muncul tidak ada data / tidak ada daftar nilai
+    - Lalu kita buat lagi di bawahnya else agar ketika kita belom menginputkan data siswa akan muncul tidak ada data / tidak ada daftar nilai<br>
       ![lihat.png](Pic/lihat.png)
 
 4. Syntax untuk menambah data siswa<br>
