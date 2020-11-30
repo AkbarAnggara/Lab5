@@ -43,7 +43,7 @@ Keterangan :
     - Kita gunakan fungsi if untuk mencetak/print data siswa yang sudah di inputkan makanya kita menggunakan data.items()<br>
     - Lalu kita gunakan print untuk membuat table agar terlihat lebih rapih<br>
     - Lalu gunanya for untuk melakukakan perulangan nomor dan juga data siswa yang kita inputkan nanti<br>
-    - Lalu kita buat lagi di bawahnya else agar ketika kita belom menginputkan data siswa akan muncul tidak ada data / tidak ada daftar nilai
+    - Lalu kita buat lagi di bawahnya else agar ketika kita belom menginputkan data siswa akan muncul tidak ada data / tidak ada daftar nilai<br>
       ![lihat.png](Pic/lihat.png)
 
 4. Syntax untuk menambah data siswa<br>
@@ -86,9 +86,9 @@ Keterangan:
       
 8. Syntax jika kita tidak memilih salah satu pada pilihan menu<br>
 Keterangan:
-  - Disini kita menggunakan else untuk mengeksekusi code/syntax jika bernilai False<br>
-  - Kita disuruh memilih ingin menambahkan data, melihat data, mengubah data, mencari data, atau keluar dari program<br>
-  - Jadi ketika kita tidak memilih pilihan apapun maka akan muncul tulisan pilih menu yang tersedia<br>
+    - Disini kita menggunakan else untuk mengeksekusi code/syntax jika bernilai False<br>
+    - Kita disuruh memilih ingin menambahkan data, melihat data, mengubah data, mencari data, atau keluar dari program<br>
+    - Jadi ketika kita tidak memilih pilihan apapun maka akan muncul tulisan pilih menu yang tersedia<br>
       ![memilih.png](Pic/memilih.png)
       
 
