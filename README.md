@@ -8,7 +8,7 @@ Kelas        : TI.20.B.1<br>
 Tugas Latihan Praktikum 4:<br>
   ![latihan.png](Pic/latihan.png)
   
-Berikut adalah syntax yang saya gunakan:
+Berikut adalah syntax yang saya gunakan:<br>
   ![syntax_latihan5.png](Pic/syntax_latihan5.png)
   
 Hasil run dari syntax di atas:<br>
