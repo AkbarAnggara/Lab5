@@ -28,6 +28,11 @@ Lalu setelah memasukkan data siswa maka outputnya harus seperti ini:
   
 Oke mari kita mulai mengerjakan tugasnya, untuk source code/syntax yang saya gunakan silahkan kalian lihat disini [Click Here](tugas_praktikum_5.py)
 
+
+Lalu berikut ini adalah flowchartnya:<br>
+![flowchart.png](Pic/flowchart.png)
+
+
 Oke setelah kalian lihat saya akan menjelaskan fungsi - fungsinya :
 
 1. Syntax untuk membuat pilihan menambah data, melihat data, menhapus data, mencari data atau keluar dari program<br>
